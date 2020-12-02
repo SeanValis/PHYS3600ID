@@ -1,3 +1,3 @@
 # This is my first local Git Repo
 
-Welcome!
+Welcome! Happy to have you here.
